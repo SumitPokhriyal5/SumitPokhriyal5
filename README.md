@@ -83,5 +83,10 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitPokhriyal5&layout=compact&hide_border=true&theme=radical" alt="SumitPokhriyal5" />
 </p>
 
+<!-- Leetcode Stats -->
+
+## Leetcode Stats 🔥
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sumitpokhriyal?ext=heatmap)](https://www.leetcode.com/sumitpokhriyal)
+
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
