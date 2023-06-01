@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advance JavaScript(ES6), React** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **Advance JavaScript** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 💬 Ask me about **DSA** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📫 How to reach me **sumitstan1998@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
