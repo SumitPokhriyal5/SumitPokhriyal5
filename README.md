@@ -88,5 +88,11 @@
 ## Leetcode Stats 🔥
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sumitpokhriyal?ext=heatmap)](https://www.leetcode.com/sumitpokhriyal)
 
+<br/>
+    <h3 align="center"> 
+        Visitor count <br>
+        <img src="https://profile-counter.glitch.me/SumitPokhriyal5&theme=sea/count.svg" />
+      </h3>
+
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
